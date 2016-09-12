@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkshopW2</string>
+    <string name="cls">ลบ</string>
+    <string name="defaultPassword">พาสเวิร์ด</string>
+    <string name="eight">๘</string>
+    <string name="five">๕</string>
+    <string name="four">๓</string>
+    <string name="label">ใส่รหัสผ่าน</string>
+    <string name="nine">๙</string>
+    <string name="ok">ล็อคอิน</string>
+    <string name="one">๑</string>
+    <string name="seven">๗</string>
+    <string name="six">๖</string>
+    <string name="three">๓</string>
+    <string name="two">๒</string>
+    <string name="zero">๐</string>
+    <string name="validPass">เข้าสู่ระบบสำเร็จ</string>
+    <string name="again">ใส่รหัสใหม่อีกครั้ง</string>
+    <string name="invalidPass">รหัสผ่านไม่ถูกต้อง</string>
+</resources>

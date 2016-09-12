@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkshopW2</string>
+    <string name="cls">削除</string>
+    <string name="defaultPassword">パスワード</string>
+    <string name="eight">八</string>
+    <string name="five">五</string>
+    <string name="four">四</string>
+    <string name="label">パスワードをタイプして下さい</string>
+    <string name="nine">九</string>
+    <string name="ok">ログイン</string>
+    <string name="one">一</string>
+    <string name="seven">七</string>
+    <string name="six">六</string>
+    <string name="three">三</string>
+    <string name="two">二</string>
+    <string name="zero">ゼロ</string>
+    <string name="validPass">ログインを成功しました</string>
+    <string name="invalidPass">間違ったパスワード</string>
+    <string name="again">もう一度お試しください</string>
+</resources>
